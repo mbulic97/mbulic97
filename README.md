@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://pixel-profile.vercel.app/api/github-stats?username=mbulic97)
+<!--![](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)-- ovo je androdi studio>
+
+<!--![](https://github-readme-stats.vercel.app/api?username=mbulic97&show_icons=true&theme=transparent)-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs?username=mbulic97&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en)-->
+<!--![](https://github-readme-stats.vercel.app/api?username=mbulic97&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)-->
