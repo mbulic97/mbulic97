@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **mbulic97/mbulic97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=mbulic97)
+![](https://leetcard.jacoblin.cool/mbulic?theme=dark&font=Karla)
+
 <!--![](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)-- ovo je androdi studio>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=mbulic97&show_icons=true&theme=transparent)-->
